@@ -1,6 +1,5 @@
-# Team-Overflow---Vedant-Salunkhe
 
-# Early Sepsis Alert
+# Early Sepsis Alerter
 
 Predicts whether an ICU patient will develop sepsis in the next **6–12 hours**
 using hourly vital sign time-series data, so clinicians can intervene before
